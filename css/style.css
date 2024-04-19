@@ -1,0 +1,303 @@
+header{
+    background-color: #F0FFF0;
+    min-height: 100vh;
+}
+
+.nav-link, .btn-font{
+    text-transform: capitalize;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000;
+}
+.btn-font{
+    background-color: #21B573;
+    border: none;
+    border-radius: 20px;
+    padding: 0;
+    padding: 8px 16px;
+}
+.hero_contents{
+
+}
+.hero_contents h5{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FD511A;
+}   
+.hero_contents h1{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 70px;
+}
+.hero_contents h1 span{
+    
+color: #21b573;
+}
+.hero_contents p{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 36px;
+    color: #6C6B6B;
+}
+.hero_contents a{
+    text-transform: capitalize;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    background-color: #21B573;
+    color: #fff;
+    border-radius: 30px;
+    font-size: 14px;
+    padding: 0;
+    padding: 7px 17px;
+    transition: 0.4s all ease-in-out;
+   
+}
+.hero_contents a:hover{
+    background-color: #177e50;
+    color: #fff;
+}
+.hero-height{
+    align-items: center;
+    min-height: 80vh;
+}
+.feature_section{
+
+}
+.feature_item{
+
+background: #F8FFFB;
+transition: 0.3s all ease-in-out;
+}
+.feature_item_img{
+
+}
+.feature_item_img img{
+
+}
+.feature_item h5{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 36px;
+    color: #413960;
+    margin-top: 20px;
+}
+.feature_item p{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+}
+.w-25 {
+    width: 40%!important;
+}
+.feature_item:hover{
+    background-color: #fff;
+    box-shadow: 0px 20px 40px 0px #0000001A;
+}
+.course_category_section{
+
+}
+.course_category_section .heading{
+
+}
+.course_category_section .heading h3{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+.course_item{
+
+box-shadow: 0px 10px 40px 0px #0000001A;
+}
+.course_image{
+
+}
+.course_image img{
+
+}
+.course_item h3{
+
+color: #413960;
+
+font-family: "Poppins", sans-serif;
+
+font-weight: 500;
+
+font-size: 23px;
+
+line-height: 36px;
+
+text-transform: capitalize;
+
+margin-top: 10px;
+}
+.course_item h6{
+
+font-family: "Poppins", sans-serif;
+
+font-weight: 400;
+
+font-size: 16px;
+
+line-height: 24px;
+
+margin-bottom: 17px;
+}
+.course_item a{
+
+padding: 0;
+
+padding: 5px 16px;
+
+border-radius: 20px;
+
+margin-bottom: 14px;
+}
+.course_duration_info_box{
+
+display: flex;
+
+justify-content: space-between;
+
+align-items: center;
+
+margin-top: 12px;
+}
+.start_date{
+
+}
+.start_date ul {
+    
+display: flex;
+    
+padding: 0;
+}
+.start_date ul li{
+    
+list-style: none;
+    
+margin-right: 10px;
+}
+.total_seats{
+
+}
+.total_seats ul{
+    
+display: flex;
+    
+padding: 0;
+}
+.total_seats ul li{
+    
+list-style: none;
+    
+margin-right: 10px;
+}
+.testimonial_section{}
+.testimonial_heading{
+
+}
+.testimonial_heading h3{
+
+font-family: "Poppins", sans-serif;
+
+font-weight: 700;
+
+text-transform: capitalize;
+}
+.testimonial_content{display: flex;width: 65%;margin: auto;align-items: center;}
+.client_image{
+
+width: 19%;
+}
+.client_image img{
+
+width: 100%;
+}
+.client_message{
+
+width: 100%;
+
+margin-left: 30px;
+}
+.client_message p{
+    
+font-family: "Poppins", sans-serif;
+    
+font-weight: 400;
+    
+font-size: 16px;
+    
+line-height: 30px;
+}
+footer{
+
+background-color: #282531;
+
+color: #fff;
+}
+.footer_paragraph{
+
+}
+.footer_paragraph p{
+    
+font-family: "Poppins", sans-serif;
+    
+font-weight: 400;
+    
+font-size: 16px;
+    
+line-height: 30px;
+}
+.footer_links{
+
+}
+.footer_links ul{
+    list-style-type: none;
+}
+.footer_links ul li{
+    
+    list-style-type: none;
+font-family: "Poppins", sans-serif;
+    
+}
+
+.footer_links ul li a{
+    
+color: #fff;
+    
+text-decoration: none;
+    
+font-family: "Poppins", sans-serif;
+    
+font-weight: 400;
+    
+font-size: 16px;
+    
+line-height: 30px;
+}
+.footer_links ul li a:hover{
+    color: #b3b0b0;
+  
+}
+.footer_links ul li:first-child{
+    font-weight: 700;
+}
+.copyright-claims{
+
+}
+.copyright-claims p{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    color: #999;
+    font-size: 14px;
+    line-height: 36px;
+}
